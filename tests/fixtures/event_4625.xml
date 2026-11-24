@@ -1,0 +1,11 @@
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <EventID>4625</EventID>
+    <TimeCreated SystemTime="2026-01-15T10:00:00.0000000Z"/>
+    <Computer>WORKSTATION01</Computer>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">admin</Data>
+    <Data Name="IpAddress">203.0.113.50</Data>
+  </EventData>
+</Event>
